@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/datasette/datasette-alerts/commit/c0a5fe7fbccf2bfd9694d517d821c5d52775fb96",
       "git:hexsha": "c0a5fe7fbccf2bfd9694d517d821c5d52775fb96",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.0.1a11"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.0.1a11",
+      "repolex:parsedAt": "2026-10-12T16:45:28.048479+00:00"
     },
     {
       "@id": "https://repolex.ai/r/datasette/datasette-alerts/commit/c14eefb4aa248b70e37ea93a44b0a5d43b31e57f",
